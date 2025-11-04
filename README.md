@@ -1,0 +1,2 @@
+# -AWS-Lab-EC2-IAM-Role-via-CLI-Keygen-Ubuntu-AWS-CLI-S3-Update-
+In this lab, I automated an end-to-end EC2 workflow using the AWS CLI and an IAM instance profile: I generated an SSH key, imported it to EC2, launched an Ubuntu instance, fixed SSH access, installed AWS CLI v2, attached an IAM role to the instance, retrieved temporary credentials from IMDS, and pulled/edited/pushed a file in an S3 bucket.
